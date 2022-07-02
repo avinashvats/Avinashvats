@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **JavaScript,TypeScript,React.js,Node.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/avinashvats/**
-
 - ⚡ Fun fact **I know Googling**
 
 <h3 align="left">Connect with me:</h3>
