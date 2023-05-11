@@ -25,7 +25,7 @@
             <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rlogical.com%2Fwp-content%2Fuploads%2F2023%2F03%2FRlogical-Blog-Images-thumbnail.webp&tbnid=lrNYB3bMRdD8qM&vet=12ahUKEwiG_NS4iO3-AhWiALcAHREwCmYQMygAegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fwww.rlogical.com%2Fblog%2Fwhy-do-we-love-next-js-in-2021%2F&docid=kL0lxiLLWTDPgM&w=500&h=500&q=next%20js&ved=2ahUKEwiG_NS4iO3-AhWiALcAHREwCmYQMygAegUIARDeAQ"
+          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
           alt="nextjs"
           width="60"
           height="60"
